@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButacasCine", "ButacasCine\ButacasCine.csproj", "{5E538F5C-4A6F-43C1-A993-6DA283FCC916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E538F5C-4A6F-43C1-A993-6DA283FCC916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E538F5C-4A6F-43C1-A993-6DA283FCC916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E538F5C-4A6F-43C1-A993-6DA283FCC916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E538F5C-4A6F-43C1-A993-6DA283FCC916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B04E5E-AC1F-42C3-B8EC-731193024FE9}
+	EndGlobalSection
+EndGlobal

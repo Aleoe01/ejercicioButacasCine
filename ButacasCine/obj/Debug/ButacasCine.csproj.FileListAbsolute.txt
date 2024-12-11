@@ -1,0 +1,7 @@
+E:\Ale\CursoC#\ButacasCine\ButacasCine\bin\Debug\ButacasCine.exe.config
+E:\Ale\CursoC#\ButacasCine\ButacasCine\bin\Debug\ButacasCine.exe
+E:\Ale\CursoC#\ButacasCine\ButacasCine\bin\Debug\ButacasCine.pdb
+E:\Ale\CursoC#\ButacasCine\ButacasCine\obj\Debug\ButacasCine.csproj.AssemblyReference.cache
+E:\Ale\CursoC#\ButacasCine\ButacasCine\obj\Debug\ButacasCine.csproj.CoreCompileInputs.cache
+E:\Ale\CursoC#\ButacasCine\ButacasCine\obj\Debug\ButacasCine.exe
+E:\Ale\CursoC#\ButacasCine\ButacasCine\obj\Debug\ButacasCine.pdb
